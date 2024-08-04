@@ -1,4 +1,4 @@
-Experienced PHP Backend/Fullstack Developer | Crafting Scalable Solutions in London
+**Experienced PHP Backend/Fullstack Developer | Crafting Scalable Solutions in London**
 
 🔧 Senior PHP Developer with over [X] years of expertise in building robust, high-performance web applications. Passionate about clean code, efficient algorithms, and delivering quality software on time.
 
